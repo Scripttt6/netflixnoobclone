@@ -1,2 +1,2 @@
-# netflixnoobclone
-netflixnoobclone
+# netflix_noob_clone
+netflix_noob
