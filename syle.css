@@ -1,0 +1,82 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: rgb(23, 23, 23);
+}
+section h1 {
+  font-family: "Open Sans", sans-serif;
+  color: white;
+}
+
+section {
+  height: 100vh;
+}
+
+.Netflix img {
+  height: 80px;
+  width: 150px;
+}
+
+.Netflix {
+  display: flex;
+}
+.netpic img {
+  height: 200px;
+  width: 200px;å
+}
+
+.netpic {
+  display: flex;
+  justify-content: center;
+  justify-content: space-evenly;
+  margin: 500px;
+  align-items: flex-end;
+  margin-top: 300px;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  border: none;
+  border-radius: 4px;
+}
+
+body img {
+  height: 25px;
+  width: 120px;
+  margin-top: 17px;
+  margin-left: 50px;
+  border-radius: 0.1rem;
+}
+
+/* .netpic:hover {
+  cursor: pointer;
+  border: solid 2px grey;
+} */
+
+h1 {
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  font-weight: unset;
+  width: 100%;
+  color: #fff;
+  font-size: 2em;
+  text-align: center;
+}
+
+.butt {
+  background-color: transparent;
+  cursor: pointer;
+  display: block;
+  font-size: 20px;
+  color: white;
+  border: 2px solid grey;
+  
+  padding: 6px;
+  width: 200px;
+}
+
+.butt:hover {
+  background-color: transparent;
+}
